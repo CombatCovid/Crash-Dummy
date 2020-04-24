@@ -1,4 +1,8 @@
-# Steps to start documenting the equipment/design you found and chose 
+# N.B. This is a ***testing***, not real, repo: it will appear and disappear from the **develop** branch only.
+Its use is for developing **Arnold**, the automator. He will handle tasks silently and usefully, so that repos
+rapidly arrive or disappear on our web apps, whenver they enter or leave branches of CombatCovid.
+
+## Steps to start documenting the equipment/design you found and chose 
 [See this documentation example](https://github.com/CombatCovid/mit-emergency-ventilator). You can also download it to see the final result.
 ## 1. Getting started
 Use this template and guidelines to make your documentation more FAIR (Findable Accessible Interoperable and Reusable). The template has a simple structure that allows to easily present your content separating the source files(src) that users need to replicate from explanations (docs), and guides that explain how to use the source files. 
