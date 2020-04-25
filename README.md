@@ -1,4 +1,4 @@
-# N.B. This is a ***testing***, not real, repo: it will appear and disappear from the **develop** branch only.
+# N.B. This is a ***testing*** repo, not real one: it will appear and disappear from the **develop** branch only.
 Its use is for developing **Arnold**, the automator. He will handle tasks silently and usefully, so that repos
 rapidly arrive or disappear on our web apps, whenver they enter or leave branches of CombatCovid.
 
