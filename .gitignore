@@ -6,3 +6,4 @@
 # which leaves behind such files -- talk to Git-knowledgeable folk
 # to do this, thanks...
 .idea/
+.history/
