@@ -69,4 +69,5 @@ Si desea traducir el contenido de la carpeta `docs`, por ejemplo, al ruso o al f
 ## test entries
 
 - one
-- two
+- two - push, successful
+- three - pr
