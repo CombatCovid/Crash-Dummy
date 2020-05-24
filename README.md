@@ -71,8 +71,5 @@ Si desea traducir el contenido de la carpeta `docs`, por ejemplo, al ruso o al f
 - one
 - two - push, successful
 - three - pr
-<<<<<<< HEAD
-- four - labels push 4
-=======
-- four - labels push 3
->>>>>>> hold-for-correction
+- four - labels push 5
+
