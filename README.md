@@ -73,5 +73,5 @@ Si desea traducir el contenido de la carpeta `docs`, por ejemplo, al ruso o al f
 - three - pr
 - four - labels push 8
 - five - codes 4
-- six - hooking up 4
+- six - hooking up 5
 
